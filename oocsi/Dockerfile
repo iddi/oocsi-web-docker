@@ -8,4 +8,3 @@ USER daemon
 RUN chmod +x /opt/docker/bin/oocsi-web
 ENTRYPOINT ["/opt/docker/bin/oocsi-web"]
 CMD []
-
