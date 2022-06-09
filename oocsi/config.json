@@ -1,6 +1,6 @@
 {
     "name": "OOCSI for HomeAssistant Add-on",
-    "version": "0.3.26",
+    "version": "0.3.37",
     "slug": "oocsi",
     "description": "Create a local dedicated OOCSI server for HomeAssistant",
     "url": "https://github.com/iddi/oocsi-web",
